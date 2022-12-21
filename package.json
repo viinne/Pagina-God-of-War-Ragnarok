@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "node-sass": "^8.0.0",
+    "sass": "^1.56.1"
+  },
+  "name": "pagina-god-of-war",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass scss/style.scss css/style.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
